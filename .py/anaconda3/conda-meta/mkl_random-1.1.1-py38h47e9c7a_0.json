@@ -1,0 +1,62 @@
+{
+  "build": "py38h47e9c7a_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "mkl >=2020.1,<2021.0a0",
+    "numpy >=1.14,<2.0a0",
+    "python >=3.8,<3.9.0a0",
+    "vc >=14.1,<15.0a0",
+    "vs2015_runtime >=14.16.27012,<15.0a0",
+    "blas * mkl"
+  ],
+  "extracted_package_dir": "C:\\Users\\User\\anaconda3\\pkgs\\mkl_random-1.1.1-py38h47e9c7a_0",
+  "features": "",
+  "files": [
+    "Lib/site-packages/mkl_random-1.1.1.dist-info/INSTALLER",
+    "Lib/site-packages/mkl_random-1.1.1.dist-info/LICENSE.txt",
+    "Lib/site-packages/mkl_random-1.1.1.dist-info/METADATA",
+    "Lib/site-packages/mkl_random-1.1.1.dist-info/RECORD",
+    "Lib/site-packages/mkl_random-1.1.1.dist-info/WHEEL",
+    "Lib/site-packages/mkl_random-1.1.1.dist-info/top_level.txt",
+    "Lib/site-packages/mkl_random/__init__.py",
+    "Lib/site-packages/mkl_random/__pycache__/__init__.cpython-38.pyc",
+    "Lib/site-packages/mkl_random/__pycache__/_version.cpython-38.pyc",
+    "Lib/site-packages/mkl_random/__pycache__/setup.cpython-38.pyc",
+    "Lib/site-packages/mkl_random/_version.py",
+    "Lib/site-packages/mkl_random/mkl_distributions.h",
+    "Lib/site-packages/mkl_random/mklrand.cp38-win_amd64.pyd",
+    "Lib/site-packages/mkl_random/randomkit.h",
+    "Lib/site-packages/mkl_random/setup.py",
+    "Lib/site-packages/mkl_random/tests/__init__.py",
+    "Lib/site-packages/mkl_random/tests/__pycache__/__init__.cpython-38.pyc",
+    "Lib/site-packages/mkl_random/tests/__pycache__/test_random.cpython-38.pyc",
+    "Lib/site-packages/mkl_random/tests/__pycache__/test_regression.cpython-38.pyc",
+    "Lib/site-packages/mkl_random/tests/test_random.py",
+    "Lib/site-packages/mkl_random/tests/test_regression.py"
+  ],
+  "fn": "mkl_random-1.1.1-py38h47e9c7a_0.conda",
+  "legacy_bz2_md5": "d518fabfd51ecc093a9f0597416aaca4",
+  "legacy_bz2_size": 294902,
+  "license": "BSD 3-Clause",
+  "link": {
+    "source": "C:\\Users\\User\\anaconda3\\pkgs\\mkl_random-1.1.1-py38h47e9c7a_0",
+    "type": 1
+  },
+  "md5": "804bd1243b4dce978cec96f7c86582be",
+  "name": "mkl_random",
+  "package_tarball_full_path": "C:\\Users\\User\\anaconda3\\pkgs\\mkl_random-1.1.1-py38h47e9c7a_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "mkl_random==1.1.1=py38h47e9c7a_0",
+  "sha256": "45a9f6e39de613ed705bedd5deebeefe0bf7b6a7f9fa31c6d35e9c8fdc804dc6",
+  "size": 251195,
+  "subdir": "win-64",
+  "timestamp": 1590531599126,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/mkl_random-1.1.1-py38h47e9c7a_0.conda",
+  "version": "1.1.1"
+}

@@ -1,0 +1,58 @@
+{
+  "build": "py38he774522_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.8,<3.9.0a0",
+    "vc >=14.1,<15.0a0",
+    "vs2015_runtime >=14.16.27012,<15.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\User\\anaconda3\\pkgs\\lazy-object-proxy-1.4.3-py38he774522_0",
+  "features": "",
+  "files": [
+    "Lib/site-packages/lazy_object_proxy-1.4.3.dist-info/AUTHORS.rst",
+    "Lib/site-packages/lazy_object_proxy-1.4.3.dist-info/INSTALLER",
+    "Lib/site-packages/lazy_object_proxy-1.4.3.dist-info/LICENSE",
+    "Lib/site-packages/lazy_object_proxy-1.4.3.dist-info/METADATA",
+    "Lib/site-packages/lazy_object_proxy-1.4.3.dist-info/RECORD",
+    "Lib/site-packages/lazy_object_proxy-1.4.3.dist-info/WHEEL",
+    "Lib/site-packages/lazy_object_proxy-1.4.3.dist-info/top_level.txt",
+    "Lib/site-packages/lazy_object_proxy/__init__.py",
+    "Lib/site-packages/lazy_object_proxy/__pycache__/__init__.cpython-38.pyc",
+    "Lib/site-packages/lazy_object_proxy/__pycache__/_version.cpython-38.pyc",
+    "Lib/site-packages/lazy_object_proxy/__pycache__/compat.cpython-38.pyc",
+    "Lib/site-packages/lazy_object_proxy/__pycache__/simple.cpython-38.pyc",
+    "Lib/site-packages/lazy_object_proxy/__pycache__/slots.cpython-38.pyc",
+    "Lib/site-packages/lazy_object_proxy/__pycache__/utils.cpython-38.pyc",
+    "Lib/site-packages/lazy_object_proxy/_version.py",
+    "Lib/site-packages/lazy_object_proxy/cext.cp38-win_amd64.pyd",
+    "Lib/site-packages/lazy_object_proxy/compat.py",
+    "Lib/site-packages/lazy_object_proxy/simple.py",
+    "Lib/site-packages/lazy_object_proxy/slots.py",
+    "Lib/site-packages/lazy_object_proxy/utils.py"
+  ],
+  "fn": "lazy-object-proxy-1.4.3-py38he774522_0.conda",
+  "legacy_bz2_md5": "bbd55c8887de38a55ddb94dd391b3aa0",
+  "legacy_bz2_size": 33184,
+  "license": "BSD-2-Clause",
+  "link": {
+    "source": "C:\\Users\\User\\anaconda3\\pkgs\\lazy-object-proxy-1.4.3-py38he774522_0",
+    "type": 1
+  },
+  "md5": "fdc3108d05a0c9227fa7a3c10d81a931",
+  "name": "lazy-object-proxy",
+  "package_tarball_full_path": "C:\\Users\\User\\anaconda3\\pkgs\\lazy-object-proxy-1.4.3-py38he774522_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "lazy-object-proxy==1.4.3=py38he774522_0",
+  "sha256": "66939bfecdcba60ceae6c408c92d37d63bb58454bc6af9f8f8e12890fddf5a87",
+  "size": 31174,
+  "subdir": "win-64",
+  "timestamp": 1573080333498,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/lazy-object-proxy-1.4.3-py38he774522_0.conda",
+  "version": "1.4.3"
+}

@@ -1,0 +1,227 @@
+{
+  "build": "py_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/noarch",
+  "constrains": [],
+  "depends": [
+    "python >=3.5"
+  ],
+  "extracted_package_dir": "C:\\Users\\User\\anaconda3\\pkgs\\fsspec-0.8.3-py_0",
+  "features": "",
+  "files": [
+    "Lib/site-packages/fsspec-0.8.3.dist-info/INSTALLER",
+    "Lib/site-packages/fsspec-0.8.3.dist-info/LICENSE",
+    "Lib/site-packages/fsspec-0.8.3.dist-info/METADATA",
+    "Lib/site-packages/fsspec-0.8.3.dist-info/RECORD",
+    "Lib/site-packages/fsspec-0.8.3.dist-info/REQUESTED",
+    "Lib/site-packages/fsspec-0.8.3.dist-info/WHEEL",
+    "Lib/site-packages/fsspec-0.8.3.dist-info/direct_url.json",
+    "Lib/site-packages/fsspec-0.8.3.dist-info/top_level.txt",
+    "Lib/site-packages/fsspec/__init__.py",
+    "Lib/site-packages/fsspec/_version.py",
+    "Lib/site-packages/fsspec/asyn.py",
+    "Lib/site-packages/fsspec/caching.py",
+    "Lib/site-packages/fsspec/compression.py",
+    "Lib/site-packages/fsspec/conftest.py",
+    "Lib/site-packages/fsspec/core.py",
+    "Lib/site-packages/fsspec/dircache.py",
+    "Lib/site-packages/fsspec/fuse.py",
+    "Lib/site-packages/fsspec/gui.py",
+    "Lib/site-packages/fsspec/implementations/__init__.py",
+    "Lib/site-packages/fsspec/implementations/cached.py",
+    "Lib/site-packages/fsspec/implementations/dask.py",
+    "Lib/site-packages/fsspec/implementations/dvc.py",
+    "Lib/site-packages/fsspec/implementations/ftp.py",
+    "Lib/site-packages/fsspec/implementations/git.py",
+    "Lib/site-packages/fsspec/implementations/github.py",
+    "Lib/site-packages/fsspec/implementations/hdfs.py",
+    "Lib/site-packages/fsspec/implementations/http.py",
+    "Lib/site-packages/fsspec/implementations/local.py",
+    "Lib/site-packages/fsspec/implementations/memory.py",
+    "Lib/site-packages/fsspec/implementations/sftp.py",
+    "Lib/site-packages/fsspec/implementations/smb.py",
+    "Lib/site-packages/fsspec/implementations/webhdfs.py",
+    "Lib/site-packages/fsspec/implementations/zip.py",
+    "Lib/site-packages/fsspec/mapping.py",
+    "Lib/site-packages/fsspec/registry.py",
+    "Lib/site-packages/fsspec/spec.py",
+    "Lib/site-packages/fsspec/transaction.py",
+    "Lib/site-packages/fsspec/utils.py",
+    "Lib/site-packages/fsspec/__pycache__/__init__.cpython-38.pyc",
+    "Lib/site-packages/fsspec/__pycache__/_version.cpython-38.pyc",
+    "Lib/site-packages/fsspec/__pycache__/asyn.cpython-38.pyc",
+    "Lib/site-packages/fsspec/__pycache__/caching.cpython-38.pyc",
+    "Lib/site-packages/fsspec/__pycache__/compression.cpython-38.pyc",
+    "Lib/site-packages/fsspec/__pycache__/conftest.cpython-38.pyc",
+    "Lib/site-packages/fsspec/__pycache__/core.cpython-38.pyc",
+    "Lib/site-packages/fsspec/__pycache__/dircache.cpython-38.pyc",
+    "Lib/site-packages/fsspec/__pycache__/fuse.cpython-38.pyc",
+    "Lib/site-packages/fsspec/__pycache__/gui.cpython-38.pyc",
+    "Lib/site-packages/fsspec/implementations/__pycache__/__init__.cpython-38.pyc",
+    "Lib/site-packages/fsspec/implementations/__pycache__/cached.cpython-38.pyc",
+    "Lib/site-packages/fsspec/implementations/__pycache__/dask.cpython-38.pyc",
+    "Lib/site-packages/fsspec/implementations/__pycache__/dvc.cpython-38.pyc",
+    "Lib/site-packages/fsspec/implementations/__pycache__/ftp.cpython-38.pyc",
+    "Lib/site-packages/fsspec/implementations/__pycache__/git.cpython-38.pyc",
+    "Lib/site-packages/fsspec/implementations/__pycache__/github.cpython-38.pyc",
+    "Lib/site-packages/fsspec/implementations/__pycache__/hdfs.cpython-38.pyc",
+    "Lib/site-packages/fsspec/implementations/__pycache__/http.cpython-38.pyc",
+    "Lib/site-packages/fsspec/implementations/__pycache__/local.cpython-38.pyc",
+    "Lib/site-packages/fsspec/implementations/__pycache__/memory.cpython-38.pyc",
+    "Lib/site-packages/fsspec/implementations/__pycache__/sftp.cpython-38.pyc",
+    "Lib/site-packages/fsspec/implementations/__pycache__/smb.cpython-38.pyc",
+    "Lib/site-packages/fsspec/implementations/__pycache__/webhdfs.cpython-38.pyc",
+    "Lib/site-packages/fsspec/implementations/__pycache__/zip.cpython-38.pyc",
+    "Lib/site-packages/fsspec/__pycache__/mapping.cpython-38.pyc",
+    "Lib/site-packages/fsspec/__pycache__/registry.cpython-38.pyc",
+    "Lib/site-packages/fsspec/__pycache__/spec.cpython-38.pyc",
+    "Lib/site-packages/fsspec/__pycache__/transaction.cpython-38.pyc",
+    "Lib/site-packages/fsspec/__pycache__/utils.cpython-38.pyc"
+  ],
+  "fn": "fsspec-0.8.3-py_0.conda",
+  "legacy_bz2_md5": "5338bb945bfa3d3fceb9e376fefa33d6",
+  "legacy_bz2_size": 70214,
+  "license": "BSD-3-Clause",
+  "link": {
+    "source": "C:\\Users\\User\\anaconda3\\pkgs\\fsspec-0.8.3-py_0",
+    "type": 1
+  },
+  "md5": "8f3cf3ce13d1c2b114b15bc304d12575",
+  "name": "fsspec",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\Users\\User\\anaconda3\\pkgs\\fsspec-0.8.3-py_0.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/fsspec/__pycache__/__init__.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/fsspec/__pycache__/_version.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/fsspec/__pycache__/asyn.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/fsspec/__pycache__/caching.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/fsspec/__pycache__/compression.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/fsspec/__pycache__/conftest.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/fsspec/__pycache__/core.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/fsspec/__pycache__/dircache.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/fsspec/__pycache__/fuse.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/fsspec/__pycache__/gui.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/fsspec/implementations/__pycache__/__init__.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/fsspec/implementations/__pycache__/cached.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/fsspec/implementations/__pycache__/dask.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/fsspec/implementations/__pycache__/dvc.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/fsspec/implementations/__pycache__/ftp.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/fsspec/implementations/__pycache__/git.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/fsspec/implementations/__pycache__/github.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/fsspec/implementations/__pycache__/hdfs.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/fsspec/implementations/__pycache__/http.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/fsspec/implementations/__pycache__/local.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/fsspec/implementations/__pycache__/memory.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/fsspec/implementations/__pycache__/sftp.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/fsspec/implementations/__pycache__/smb.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/fsspec/implementations/__pycache__/webhdfs.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/fsspec/implementations/__pycache__/zip.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/fsspec/__pycache__/mapping.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/fsspec/__pycache__/registry.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/fsspec/__pycache__/spec.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/fsspec/__pycache__/transaction.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/fsspec/__pycache__/utils.cpython-38.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "fsspec==0.8.3=py_0",
+  "sha256": "162383970a11df6d6d271aa21b6484caf103a2976e2692cf227a7cf5e83ae4e7",
+  "size": 74044,
+  "subdir": "noarch",
+  "timestamp": 1602685026119,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/noarch/fsspec-0.8.3-py_0.conda",
+  "version": "0.8.3"
+}

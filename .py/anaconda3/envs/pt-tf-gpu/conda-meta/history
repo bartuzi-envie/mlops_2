@@ -1,0 +1,69 @@
+==> 2021-02-04 10:10:32 <==
+# cmd: C:\Users\User\anaconda3\Scripts\conda-script.py create --name pt-tf-gpu
+# conda version: 4.9.2
+==> 2021-02-04 10:11:17 <==
+# cmd: C:\Users\User\anaconda3\Scripts\conda-script.py install python=3.8
+# conda version: 4.9.2
++defaults/noarch::wheel-0.36.2-pyhd3eb1b0_0
++defaults/win-64::ca-certificates-2021.1.19-haa95532_0
++defaults/win-64::certifi-2020.12.5-py38haa95532_0
++defaults/win-64::openssl-1.1.1i-h2bbff1b_0
++defaults/win-64::pip-20.3.3-py38haa95532_0
++defaults/win-64::python-3.8.5-h5fd99cc_1
++defaults/win-64::setuptools-52.0.0-py38haa95532_0
++defaults/win-64::sqlite-3.33.0-h2a8f88b_0
++defaults/win-64::vc-14.2-h21ff451_1
++defaults/win-64::vs2015_runtime-14.27.29016-h5e58377_2
++defaults/win-64::wincertstore-0.2-py38_0
++defaults/win-64::zlib-1.2.11-h62dcd97_4
+# update specs: ['python=3.8']
+==> 2021-02-04 10:11:35 <==
+# cmd: C:\Users\User\anaconda3\Scripts\conda-script.py install -c anaconda cudatoolkit=10.1
+# conda version: 4.9.2
+-defaults/win-64::ca-certificates-2021.1.19-haa95532_0
+-defaults/win-64::certifi-2020.12.5-py38haa95532_0
+-defaults/win-64::openssl-1.1.1i-h2bbff1b_0
++anaconda/win-64::ca-certificates-2020.10.14-0
++anaconda/win-64::certifi-2020.6.20-py38_0
++anaconda/win-64::cudatoolkit-10.1.243-h74a9793_0
++anaconda/win-64::openssl-1.1.1h-he774522_0
+# update specs: ['cudatoolkit=10.1']
+==> 2021-02-04 10:11:47 <==
+# cmd: C:\Users\User\anaconda3\Scripts\conda-script.py install pip
+# conda version: 4.9.2
+-anaconda/win-64::ca-certificates-2020.10.14-0
+-anaconda/win-64::certifi-2020.6.20-py38_0
+-anaconda/win-64::openssl-1.1.1h-he774522_0
++defaults/win-64::ca-certificates-2021.1.19-haa95532_0
++defaults/win-64::certifi-2020.12.5-py38haa95532_0
++defaults/win-64::openssl-1.1.1i-h2bbff1b_0
+# update specs: ['pip']
+==> 2021-02-04 10:21:45 <==
+# cmd: C:\Users\User\anaconda3\Scripts\conda-script.py install pytorch torchvision torchaudio cudatoolkit=10.1 -c pytorch
+# conda version: 4.9.2
++defaults/noarch::olefile-0.46-py_0
++defaults/noarch::typing_extensions-3.7.4.3-pyh06a4308_0
++defaults/win-64::blas-1.0-mkl
++defaults/win-64::freetype-2.10.4-hd328e21_0
++defaults/win-64::intel-openmp-2020.2-254
++defaults/win-64::jpeg-9b-hb83a4c4_2
++defaults/win-64::libpng-1.6.37-h2a8f88b_0
++defaults/win-64::libtiff-4.1.0-h56a325e_1
++defaults/win-64::libuv-1.40.0-he774522_0
++defaults/win-64::lz4-c-1.9.3-h2bbff1b_0
++defaults/win-64::mkl-2020.2-256
++defaults/win-64::mkl-service-2.3.0-py38h196d8e1_0
++defaults/win-64::mkl_fft-1.2.0-py38h45dec08_0
++defaults/win-64::mkl_random-1.1.1-py38h47e9c7a_0
++defaults/win-64::ninja-1.10.2-py38h6d14046_0
++defaults/win-64::numpy-1.19.2-py38hadc3359_0
++defaults/win-64::numpy-base-1.19.2-py38ha3acd2a_0
++defaults/win-64::pillow-8.1.0-py38h4fa10fc_0
++defaults/win-64::six-1.15.0-py38haa95532_0
++defaults/win-64::tk-8.6.10-he774522_0
++defaults/win-64::xz-5.2.5-h62dcd97_0
++defaults/win-64::zstd-1.4.5-h04227a9_0
++pytorch/win-64::pytorch-1.7.1-py3.8_cuda101_cudnn7_0
++pytorch/win-64::torchaudio-0.7.2-py38
++pytorch/win-64::torchvision-0.8.2-py38_cu101
+# update specs: ['pytorch', 'cudatoolkit=10.1', 'torchvision', 'torchaudio']

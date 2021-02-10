@@ -1,0 +1,51 @@
+{
+  "build": "py_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/noarch",
+  "constrains": [],
+  "depends": [
+    "python"
+  ],
+  "extracted_package_dir": "C:\\Users\\User\\anaconda3\\pkgs\\imagesize-1.2.0-py_0",
+  "features": "",
+  "files": [
+    "Lib/site-packages/imagesize-1.2.0.dist-info/INSTALLER",
+    "Lib/site-packages/imagesize-1.2.0.dist-info/LICENSE.rst",
+    "Lib/site-packages/imagesize-1.2.0.dist-info/METADATA",
+    "Lib/site-packages/imagesize-1.2.0.dist-info/RECORD",
+    "Lib/site-packages/imagesize-1.2.0.dist-info/WHEEL",
+    "Lib/site-packages/imagesize-1.2.0.dist-info/top_level.txt",
+    "Lib/site-packages/imagesize.py",
+    "Lib/site-packages/__pycache__/imagesize.cpython-38.pyc"
+  ],
+  "fn": "imagesize-1.2.0-py_0.conda",
+  "legacy_bz2_md5": "3e004cdab146e4a764d58527eed10cae",
+  "legacy_bz2_size": 10310,
+  "license": "MIT",
+  "link": {
+    "source": "C:\\Users\\User\\anaconda3\\pkgs\\imagesize-1.2.0-py_0",
+    "type": 1
+  },
+  "md5": "bcfd660d946ab2cc9a3ca61eb404229a",
+  "name": "imagesize",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\Users\\User\\anaconda3\\pkgs\\imagesize-1.2.0-py_0.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/__pycache__/imagesize.cpython-38.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "imagesize==1.2.0=py_0",
+  "sha256": "aba27bec03cc6940cccb34217de6d107ec75d0a0d4acb9675b51bb363313fa0d",
+  "size": 10088,
+  "subdir": "noarch",
+  "timestamp": 1578412011207,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/noarch/imagesize-1.2.0-py_0.conda",
+  "version": "1.2.0"
+}

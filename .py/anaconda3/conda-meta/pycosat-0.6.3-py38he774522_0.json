@@ -1,0 +1,42 @@
+{
+  "build": "py38he774522_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.8,<3.9.0a0",
+    "vc >=14.1,<15.0a0",
+    "vs2015_runtime >=14.16.27012,<15.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\User\\anaconda3\\pkgs\\pycosat-0.6.3-py38he774522_0",
+  "features": "",
+  "files": [
+    "Lib/site-packages/__pycache__/test_pycosat.cpython-38.pyc",
+    "Lib/site-packages/pycosat-0.6.3-py3.8.egg-info",
+    "Lib/site-packages/pycosat.cp38-win_amd64.pyd",
+    "Lib/site-packages/test_pycosat.py"
+  ],
+  "fn": "pycosat-0.6.3-py38he774522_0.conda",
+  "legacy_bz2_md5": "4e41def54b5e310119697970e8b0a2f7",
+  "legacy_bz2_size": 101910,
+  "license": "MIT",
+  "link": {
+    "source": "C:\\Users\\User\\anaconda3\\pkgs\\pycosat-0.6.3-py38he774522_0",
+    "type": 1
+  },
+  "md5": "27d8d610d9b8c122de006e5d40d54851",
+  "name": "pycosat",
+  "package_tarball_full_path": "C:\\Users\\User\\anaconda3\\pkgs\\pycosat-0.6.3-py38he774522_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "pycosat==0.6.3=py38he774522_0",
+  "sha256": "05ac122538d6ab375198cad242c03b8f5177f5680391205ca2c67854231257dd",
+  "size": 75830,
+  "subdir": "win-64",
+  "timestamp": 1573664368396,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/pycosat-0.6.3-py38he774522_0.conda",
+  "version": "0.6.3"
+}

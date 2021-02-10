@@ -1,0 +1,55 @@
+{
+  "build": "py38_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.8,<3.9.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\User\\anaconda3\\pkgs\\pluggy-0.13.1-py38_0",
+  "features": "",
+  "files": [
+    "Lib/site-packages/pluggy-0.13.1.dist-info/INSTALLER",
+    "Lib/site-packages/pluggy-0.13.1.dist-info/LICENSE",
+    "Lib/site-packages/pluggy-0.13.1.dist-info/METADATA",
+    "Lib/site-packages/pluggy-0.13.1.dist-info/RECORD",
+    "Lib/site-packages/pluggy-0.13.1.dist-info/WHEEL",
+    "Lib/site-packages/pluggy-0.13.1.dist-info/top_level.txt",
+    "Lib/site-packages/pluggy/__init__.py",
+    "Lib/site-packages/pluggy/__pycache__/__init__.cpython-38.pyc",
+    "Lib/site-packages/pluggy/__pycache__/_tracing.cpython-38.pyc",
+    "Lib/site-packages/pluggy/__pycache__/_version.cpython-38.pyc",
+    "Lib/site-packages/pluggy/__pycache__/callers.cpython-38.pyc",
+    "Lib/site-packages/pluggy/__pycache__/hooks.cpython-38.pyc",
+    "Lib/site-packages/pluggy/__pycache__/manager.cpython-38.pyc",
+    "Lib/site-packages/pluggy/_tracing.py",
+    "Lib/site-packages/pluggy/_version.py",
+    "Lib/site-packages/pluggy/callers.py",
+    "Lib/site-packages/pluggy/hooks.py",
+    "Lib/site-packages/pluggy/manager.py"
+  ],
+  "fn": "pluggy-0.13.1-py38_0.conda",
+  "legacy_bz2_md5": "863b53b9eb6239a12125ec8312fa8a24",
+  "legacy_bz2_size": 33378,
+  "license": "MIT",
+  "license_family": "MIT",
+  "link": {
+    "source": "C:\\Users\\User\\anaconda3\\pkgs\\pluggy-0.13.1-py38_0",
+    "type": 1
+  },
+  "md5": "86f632995cc700b1ef43d1b389c5386f",
+  "name": "pluggy",
+  "package_tarball_full_path": "C:\\Users\\User\\anaconda3\\pkgs\\pluggy-0.13.1-py38_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "pluggy==0.13.1=py38_0",
+  "sha256": "2e55cd7dd4d8624febb34cf10541b413beb67b799c29217cb7b23cd80d971888",
+  "size": 34955,
+  "subdir": "win-64",
+  "timestamp": 1574699742429,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/pluggy-0.13.1-py38_0.conda",
+  "version": "0.13.1"
+}

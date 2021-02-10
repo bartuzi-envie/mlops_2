@@ -1,0 +1,79 @@
+{
+  "build": "py38h8c2d366_2",
+  "build_number": 2,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "numpy >=1.11.3,<2.0a0",
+    "python >=3.8,<3.9.0a0",
+    "vc >=14.1,<15.0a0",
+    "vs2015_runtime >=14.16.27012,<15.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\User\\anaconda3\\pkgs\\tifffile-2020.10.1-py38h8c2d366_2",
+  "features": "",
+  "files": [
+    "Lib/site-packages/tifffile-2020.10.1-py3.8.egg-info/PKG-INFO",
+    "Lib/site-packages/tifffile-2020.10.1-py3.8.egg-info/SOURCES.txt",
+    "Lib/site-packages/tifffile-2020.10.1-py3.8.egg-info/dependency_links.txt",
+    "Lib/site-packages/tifffile-2020.10.1-py3.8.egg-info/entry_points.txt",
+    "Lib/site-packages/tifffile-2020.10.1-py3.8.egg-info/requires.txt",
+    "Lib/site-packages/tifffile-2020.10.1-py3.8.egg-info/top_level.txt",
+    "Lib/site-packages/tifffile/__init__.py",
+    "Lib/site-packages/tifffile/__main__.py",
+    "Lib/site-packages/tifffile/__pycache__/__init__.cpython-38.pyc",
+    "Lib/site-packages/tifffile/__pycache__/__main__.cpython-38.pyc",
+    "Lib/site-packages/tifffile/__pycache__/lsm2bin.cpython-38.pyc",
+    "Lib/site-packages/tifffile/__pycache__/tifffile.cpython-38.pyc",
+    "Lib/site-packages/tifffile/__pycache__/tifffile_geodb.cpython-38.pyc",
+    "Lib/site-packages/tifffile/lsm2bin.py",
+    "Lib/site-packages/tifffile/tifffile.py",
+    "Lib/site-packages/tifffile/tifffile_geodb.py",
+    "Scripts/lsm2bin-script.py",
+    "Scripts/lsm2bin.exe",
+    "Scripts/tifffile-script.py",
+    "Scripts/tifffile.exe"
+  ],
+  "fn": "tifffile-2020.10.1-py38h8c2d366_2.conda",
+  "legacy_bz2_md5": "45818364c7f24da0b7c0317f97734257",
+  "legacy_bz2_size": 327735,
+  "license": "BSD 3-Clause",
+  "license_family": "BSD",
+  "link": {
+    "source": "C:\\Users\\User\\anaconda3\\pkgs\\tifffile-2020.10.1-py38h8c2d366_2",
+    "type": 1
+  },
+  "md5": "36fd24c062daef52b1b7c7b1caaa82e0",
+  "name": "tifffile",
+  "package_tarball_full_path": "C:\\Users\\User\\anaconda3\\pkgs\\tifffile-2020.10.1-py38h8c2d366_2.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Scripts/lsm2bin-script.py",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "C:\\ci\\tifffile_1602000725057\\_h_env",
+        "sha256": "aec8131fa0626f180d9cce6d942125b90f756c66cc4ca7dfd47d35bbf87e5602",
+        "sha256_in_prefix": "c764df9c9f65f73e8ab7b483768f6fd87afe0dd349a00820677bef199e199c67",
+        "size_in_bytes": 1036
+      },
+      {
+        "_path": "Scripts/tifffile-script.py",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "C:\\ci\\tifffile_1602000725057\\_h_env",
+        "sha256": "6f210e934f44813f25442e51f6d9e065719a421fdf8966536673a08cd49685e7",
+        "sha256_in_prefix": "078669950d68201c547a42719b29de5be997cd1135f3c01a289dad336825f8e6",
+        "size_in_bytes": 1038
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "tifffile==2020.10.1=py38h8c2d366_2",
+  "sha256": "c03e3c860f47983dfa95a69b2a3aa701ddf829dbe91547b05a60295d79ad8f50",
+  "size": 299346,
+  "subdir": "win-64",
+  "timestamp": 1602000829558,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/tifffile-2020.10.1-py38h8c2d366_2.conda",
+  "version": "2020.10.1"
+}

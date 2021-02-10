@@ -1,0 +1,228 @@
+{
+  "build": "py_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/noarch",
+  "constrains": [],
+  "depends": [
+    "ipython_genutils",
+    "python >=3.7"
+  ],
+  "extracted_package_dir": "C:\\Users\\User\\anaconda3\\pkgs\\traitlets-5.0.5-py_0",
+  "features": "",
+  "files": [
+    "Lib/site-packages/traitlets-5.0.5.dist-info/COPYING.md",
+    "Lib/site-packages/traitlets-5.0.5.dist-info/INSTALLER",
+    "Lib/site-packages/traitlets-5.0.5.dist-info/METADATA",
+    "Lib/site-packages/traitlets-5.0.5.dist-info/RECORD",
+    "Lib/site-packages/traitlets-5.0.5.dist-info/REQUESTED",
+    "Lib/site-packages/traitlets-5.0.5.dist-info/WHEEL",
+    "Lib/site-packages/traitlets-5.0.5.dist-info/direct_url.json",
+    "Lib/site-packages/traitlets-5.0.5.dist-info/top_level.txt",
+    "Lib/site-packages/traitlets/__init__.py",
+    "Lib/site-packages/traitlets/_version.py",
+    "Lib/site-packages/traitlets/config/__init__.py",
+    "Lib/site-packages/traitlets/config/application.py",
+    "Lib/site-packages/traitlets/config/configurable.py",
+    "Lib/site-packages/traitlets/config/loader.py",
+    "Lib/site-packages/traitlets/config/manager.py",
+    "Lib/site-packages/traitlets/config/sphinxdoc.py",
+    "Lib/site-packages/traitlets/config/tests/__init__.py",
+    "Lib/site-packages/traitlets/config/tests/test_application.py",
+    "Lib/site-packages/traitlets/config/tests/test_configurable.py",
+    "Lib/site-packages/traitlets/config/tests/test_loader.py",
+    "Lib/site-packages/traitlets/log.py",
+    "Lib/site-packages/traitlets/tests/__init__.py",
+    "Lib/site-packages/traitlets/tests/_warnings.py",
+    "Lib/site-packages/traitlets/tests/test_traitlets.py",
+    "Lib/site-packages/traitlets/tests/test_traitlets_enum.py",
+    "Lib/site-packages/traitlets/tests/utils.py",
+    "Lib/site-packages/traitlets/traitlets.py",
+    "Lib/site-packages/traitlets/utils/__init__.py",
+    "Lib/site-packages/traitlets/utils/bunch.py",
+    "Lib/site-packages/traitlets/utils/decorators.py",
+    "Lib/site-packages/traitlets/utils/descriptions.py",
+    "Lib/site-packages/traitlets/utils/getargspec.py",
+    "Lib/site-packages/traitlets/utils/importstring.py",
+    "Lib/site-packages/traitlets/utils/sentinel.py",
+    "Lib/site-packages/traitlets/utils/tests/__init__.py",
+    "Lib/site-packages/traitlets/utils/tests/test_bunch.py",
+    "Lib/site-packages/traitlets/utils/tests/test_decorators.py",
+    "Lib/site-packages/traitlets/utils/tests/test_importstring.py",
+    "Lib/site-packages/traitlets/__pycache__/__init__.cpython-38.pyc",
+    "Lib/site-packages/traitlets/__pycache__/_version.cpython-38.pyc",
+    "Lib/site-packages/traitlets/config/__pycache__/__init__.cpython-38.pyc",
+    "Lib/site-packages/traitlets/config/__pycache__/application.cpython-38.pyc",
+    "Lib/site-packages/traitlets/config/__pycache__/configurable.cpython-38.pyc",
+    "Lib/site-packages/traitlets/config/__pycache__/loader.cpython-38.pyc",
+    "Lib/site-packages/traitlets/config/__pycache__/manager.cpython-38.pyc",
+    "Lib/site-packages/traitlets/config/__pycache__/sphinxdoc.cpython-38.pyc",
+    "Lib/site-packages/traitlets/config/tests/__pycache__/__init__.cpython-38.pyc",
+    "Lib/site-packages/traitlets/config/tests/__pycache__/test_application.cpython-38.pyc",
+    "Lib/site-packages/traitlets/config/tests/__pycache__/test_configurable.cpython-38.pyc",
+    "Lib/site-packages/traitlets/config/tests/__pycache__/test_loader.cpython-38.pyc",
+    "Lib/site-packages/traitlets/__pycache__/log.cpython-38.pyc",
+    "Lib/site-packages/traitlets/tests/__pycache__/__init__.cpython-38.pyc",
+    "Lib/site-packages/traitlets/tests/__pycache__/_warnings.cpython-38.pyc",
+    "Lib/site-packages/traitlets/tests/__pycache__/test_traitlets.cpython-38.pyc",
+    "Lib/site-packages/traitlets/tests/__pycache__/test_traitlets_enum.cpython-38.pyc",
+    "Lib/site-packages/traitlets/tests/__pycache__/utils.cpython-38.pyc",
+    "Lib/site-packages/traitlets/__pycache__/traitlets.cpython-38.pyc",
+    "Lib/site-packages/traitlets/utils/__pycache__/__init__.cpython-38.pyc",
+    "Lib/site-packages/traitlets/utils/__pycache__/bunch.cpython-38.pyc",
+    "Lib/site-packages/traitlets/utils/__pycache__/decorators.cpython-38.pyc",
+    "Lib/site-packages/traitlets/utils/__pycache__/descriptions.cpython-38.pyc",
+    "Lib/site-packages/traitlets/utils/__pycache__/getargspec.cpython-38.pyc",
+    "Lib/site-packages/traitlets/utils/__pycache__/importstring.cpython-38.pyc",
+    "Lib/site-packages/traitlets/utils/__pycache__/sentinel.cpython-38.pyc",
+    "Lib/site-packages/traitlets/utils/tests/__pycache__/__init__.cpython-38.pyc",
+    "Lib/site-packages/traitlets/utils/tests/__pycache__/test_bunch.cpython-38.pyc",
+    "Lib/site-packages/traitlets/utils/tests/__pycache__/test_decorators.cpython-38.pyc",
+    "Lib/site-packages/traitlets/utils/tests/__pycache__/test_importstring.cpython-38.pyc"
+  ],
+  "fn": "traitlets-5.0.5-py_0.conda",
+  "legacy_bz2_md5": "b6d8296a73422e03c6733ab6cef20e57",
+  "legacy_bz2_size": 82883,
+  "license": "BSD-3-Clause",
+  "link": {
+    "source": "C:\\Users\\User\\anaconda3\\pkgs\\traitlets-5.0.5-py_0",
+    "type": 1
+  },
+  "md5": "5d975dc5cd74a6d12e50de5d4265c3ec",
+  "name": "traitlets",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\Users\\User\\anaconda3\\pkgs\\traitlets-5.0.5-py_0.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/traitlets/__pycache__/__init__.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/traitlets/__pycache__/_version.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/traitlets/config/__pycache__/__init__.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/traitlets/config/__pycache__/application.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/traitlets/config/__pycache__/configurable.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/traitlets/config/__pycache__/loader.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/traitlets/config/__pycache__/manager.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/traitlets/config/__pycache__/sphinxdoc.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/traitlets/config/tests/__pycache__/__init__.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/traitlets/config/tests/__pycache__/test_application.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/traitlets/config/tests/__pycache__/test_configurable.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/traitlets/config/tests/__pycache__/test_loader.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/traitlets/__pycache__/log.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/traitlets/tests/__pycache__/__init__.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/traitlets/tests/__pycache__/_warnings.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/traitlets/tests/__pycache__/test_traitlets.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/traitlets/tests/__pycache__/test_traitlets_enum.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/traitlets/tests/__pycache__/utils.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/traitlets/__pycache__/traitlets.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/traitlets/utils/__pycache__/__init__.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/traitlets/utils/__pycache__/bunch.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/traitlets/utils/__pycache__/decorators.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/traitlets/utils/__pycache__/descriptions.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/traitlets/utils/__pycache__/getargspec.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/traitlets/utils/__pycache__/importstring.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/traitlets/utils/__pycache__/sentinel.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/traitlets/utils/tests/__pycache__/__init__.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/traitlets/utils/tests/__pycache__/test_bunch.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/traitlets/utils/tests/__pycache__/test_decorators.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/traitlets/utils/tests/__pycache__/test_importstring.cpython-38.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "traitlets==5.0.5=py_0",
+  "sha256": "871bebb157e072e8c20c52c98fabe7dcffb7bd67b9663aaa19483f5282ee0c7e",
+  "size": 84995,
+  "subdir": "noarch",
+  "timestamp": 1602787446015,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/noarch/traitlets-5.0.5-py_0.conda",
+  "version": "5.0.5"
+}

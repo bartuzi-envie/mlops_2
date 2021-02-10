@@ -1,0 +1,49 @@
+{
+  "build": "py38h21ff451_1",
+  "build_number": 1,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "libspatialindex >=1.9.3,<1.9.4.0a0",
+    "python >=3.8,<3.9.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\User\\anaconda3\\pkgs\\rtree-0.9.4-py38h21ff451_1",
+  "features": "",
+  "files": [
+    "Lib/site-packages/Rtree-0.9.4.dist-info/INSTALLER",
+    "Lib/site-packages/Rtree-0.9.4.dist-info/LICENSE.txt",
+    "Lib/site-packages/Rtree-0.9.4.dist-info/METADATA",
+    "Lib/site-packages/Rtree-0.9.4.dist-info/RECORD",
+    "Lib/site-packages/Rtree-0.9.4.dist-info/WHEEL",
+    "Lib/site-packages/Rtree-0.9.4.dist-info/top_level.txt",
+    "Lib/site-packages/rtree/__init__.py",
+    "Lib/site-packages/rtree/__pycache__/__init__.cpython-38.pyc",
+    "Lib/site-packages/rtree/__pycache__/core.cpython-38.pyc",
+    "Lib/site-packages/rtree/__pycache__/index.cpython-38.pyc",
+    "Lib/site-packages/rtree/core.py",
+    "Lib/site-packages/rtree/index.py"
+  ],
+  "fn": "rtree-0.9.4-py38h21ff451_1.conda",
+  "legacy_bz2_md5": "abe0344352e2cf11c11700d0d6e20b53",
+  "legacy_bz2_size": 50250,
+  "license": "MIT",
+  "link": {
+    "source": "C:\\Users\\User\\anaconda3\\pkgs\\rtree-0.9.4-py38h21ff451_1",
+    "type": 1
+  },
+  "md5": "8078755b9056ec1c7e8f92d323b4fd81",
+  "name": "rtree",
+  "package_tarball_full_path": "C:\\Users\\User\\anaconda3\\pkgs\\rtree-0.9.4-py38h21ff451_1.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "rtree==0.9.4=py38h21ff451_1",
+  "sha256": "606ca96b1ef6b68d9f32b21dc30289c53bb9ca2734c364b654f1e57fe693d520",
+  "size": 49726,
+  "subdir": "win-64",
+  "timestamp": 1588548020036,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/rtree-0.9.4-py38h21ff451_1.conda",
+  "version": "0.9.4"
+}

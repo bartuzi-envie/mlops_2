@@ -1,0 +1,47 @@
+{
+  "build": "py38h6d14046_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.8,<3.9.0a0",
+    "vs2015_runtime >=14.16.27012,<15.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\User\\anaconda3\\pkgs\\ninja-1.10.2-py38h6d14046_0",
+  "features": "",
+  "files": [
+    "Library/bin/ninja.exe",
+    ".nonadmin"
+  ],
+  "fn": "ninja-1.10.2-py38h6d14046_0.conda",
+  "legacy_bz2_md5": "71d8c4bd69cc2fc92efe5901b420c17c",
+  "license": "Apache 2.0",
+  "license_family": "Apache",
+  "link": {
+    "source": "C:\\Users\\User\\anaconda3\\pkgs\\ninja-1.10.2-py38h6d14046_0",
+    "type": 1
+  },
+  "md5": "0a4b2860b23035341c1535e90d149cff",
+  "name": "ninja",
+  "package_tarball_full_path": "C:\\Users\\User\\anaconda3\\pkgs\\ninja-1.10.2-py38h6d14046_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/bin/ninja.exe",
+        "path_type": "hardlink",
+        "sha256": "30065af8145fa472195f643c6f00621ca6b3c8b995d1f615ef03eb7198eceff6",
+        "sha256_in_prefix": "30065af8145fa472195f643c6f00621ca6b3c8b995d1f615ef03eb7198eceff6",
+        "size_in_bytes": 555520
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "77c1a2b7d0fe46a5dc106823a1ddf43a6ba0f687024b1e81f12460c7d013f269",
+  "size": 253063,
+  "subdir": "win-64",
+  "timestamp": 1606596373748,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/ninja-1.10.2-py38h6d14046_0.conda",
+  "version": "1.10.2"
+}

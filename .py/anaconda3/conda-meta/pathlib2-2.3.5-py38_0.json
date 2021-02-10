@@ -1,0 +1,45 @@
+{
+  "build": "py38_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.8,<3.9.0a0",
+    "six"
+  ],
+  "extracted_package_dir": "C:\\Users\\User\\anaconda3\\pkgs\\pathlib2-2.3.5-py38_0",
+  "features": "",
+  "files": [
+    "Lib/site-packages/pathlib2-2.3.5.dist-info/INSTALLER",
+    "Lib/site-packages/pathlib2-2.3.5.dist-info/LICENSE.rst",
+    "Lib/site-packages/pathlib2-2.3.5.dist-info/METADATA",
+    "Lib/site-packages/pathlib2-2.3.5.dist-info/RECORD",
+    "Lib/site-packages/pathlib2-2.3.5.dist-info/WHEEL",
+    "Lib/site-packages/pathlib2-2.3.5.dist-info/top_level.txt",
+    "Lib/site-packages/pathlib2/__init__.py",
+    "Lib/site-packages/pathlib2/__pycache__/__init__.cpython-38.pyc"
+  ],
+  "fn": "pathlib2-2.3.5-py38_0.conda",
+  "legacy_bz2_md5": "3a849e60a099ea3b04a9fdaa4e734529",
+  "legacy_bz2_size": 36143,
+  "license": "MIT",
+  "link": {
+    "source": "C:\\Users\\User\\anaconda3\\pkgs\\pathlib2-2.3.5-py38_0",
+    "type": 1
+  },
+  "md5": "ab06b2e3aba2a2587028078caa0ff822",
+  "name": "pathlib2",
+  "package_tarball_full_path": "C:\\Users\\User\\anaconda3\\pkgs\\pathlib2-2.3.5-py38_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "pathlib2==2.3.5=py38_0",
+  "sha256": "5f3ce1bd2a68479af487f29563dfeb293fde11c98453513d4ffb0b3e22fea16d",
+  "size": 37117,
+  "subdir": "win-64",
+  "timestamp": 1573737845510,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/pathlib2-2.3.5-py38_0.conda",
+  "version": "2.3.5"
+}

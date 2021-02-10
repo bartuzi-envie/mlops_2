@@ -1,0 +1,61 @@
+{
+  "build": "py38hd77b12b_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.8,<3.9.0a0",
+    "vc >=14.1,<15.0a0",
+    "vs2015_runtime >=14.16.27012,<15.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\User\\anaconda3\\pkgs\\kiwisolver-1.3.0-py38hd77b12b_0",
+  "features": "",
+  "files": [
+    "Lib/site-packages/cppy/__pycache__/__init__.cpython-38.pyc",
+    "Lib/site-packages/kiwisolver-1.3.0.dist-info/INSTALLER",
+    "Lib/site-packages/kiwisolver-1.3.0.dist-info/LICENSE",
+    "Lib/site-packages/kiwisolver-1.3.0.dist-info/METADATA",
+    "Lib/site-packages/kiwisolver-1.3.0.dist-info/RECORD",
+    "Lib/site-packages/kiwisolver-1.3.0.dist-info/REQUESTED",
+    "Lib/site-packages/kiwisolver-1.3.0.dist-info/WHEEL",
+    "Lib/site-packages/kiwisolver-1.3.0.dist-info/direct_url.json",
+    "Lib/site-packages/kiwisolver-1.3.0.dist-info/top_level.txt",
+    "Lib/site-packages/kiwisolver.cp38-win_amd64.pyd",
+    "Lib/site-packages/wheel/__pycache__/__init__.cpython-38.pyc",
+    "Lib/site-packages/wheel/__pycache__/bdist_wheel.cpython-38.pyc",
+    "Lib/site-packages/wheel/__pycache__/macosx_libfile.cpython-38.pyc",
+    "Lib/site-packages/wheel/__pycache__/metadata.cpython-38.pyc",
+    "Lib/site-packages/wheel/__pycache__/pkginfo.cpython-38.pyc",
+    "Lib/site-packages/wheel/__pycache__/util.cpython-38.pyc",
+    "Lib/site-packages/wheel/__pycache__/wheelfile.cpython-38.pyc",
+    "Lib/site-packages/wheel/cli/__pycache__/__init__.cpython-38.pyc",
+    "Lib/site-packages/wheel/vendored/__pycache__/__init__.cpython-38.pyc",
+    "Lib/site-packages/wheel/vendored/packaging/__pycache__/__init__.cpython-38.pyc",
+    "Lib/site-packages/wheel/vendored/packaging/__pycache__/_typing.cpython-38.pyc",
+    "Lib/site-packages/wheel/vendored/packaging/__pycache__/tags.cpython-38.pyc"
+  ],
+  "fn": "kiwisolver-1.3.0-py38hd77b12b_0.conda",
+  "legacy_bz2_md5": "0fbfe5881e7bbd76ecee7e14af5c14c7",
+  "legacy_bz2_size": 86071,
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "link": {
+    "source": "C:\\Users\\User\\anaconda3\\pkgs\\kiwisolver-1.3.0-py38hd77b12b_0",
+    "type": 1
+  },
+  "md5": "a1f80836fd35dc94f5a4748bc58cbf69",
+  "name": "kiwisolver",
+  "package_tarball_full_path": "C:\\Users\\User\\anaconda3\\pkgs\\kiwisolver-1.3.0-py38hd77b12b_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "kiwisolver==1.3.0=py38hd77b12b_0",
+  "sha256": "eb0e049fd136db1b0e030d3217461ab45e3f1df3ff088b1ee21972f1acd95608",
+  "size": 79410,
+  "subdir": "win-64",
+  "timestamp": 1604014815122,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/kiwisolver-1.3.0-py38hd77b12b_0.conda",
+  "version": "1.3.0"
+}

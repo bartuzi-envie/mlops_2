@@ -1,0 +1,53 @@
+{
+  "build": "py38he774522_1000",
+  "build_number": 1000,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "cffi >=1.0.0",
+    "python >=3.8,<3.9.0a0",
+    "vc >=14.1,<15.0a0",
+    "vs2015_runtime >=14.16.27012,<15.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\User\\anaconda3\\pkgs\\brotlipy-0.7.0-py38he774522_1000",
+  "features": "",
+  "files": [
+    "Lib/site-packages/brotli/__init__.py",
+    "Lib/site-packages/brotli/__pycache__/__init__.cpython-38.pyc",
+    "Lib/site-packages/brotli/__pycache__/brotli.cpython-38.pyc",
+    "Lib/site-packages/brotli/__pycache__/build.cpython-38.pyc",
+    "Lib/site-packages/brotli/_brotli.cp38-win_amd64.pyd",
+    "Lib/site-packages/brotli/brotli.py",
+    "Lib/site-packages/brotli/build.py",
+    "Lib/site-packages/brotlipy-0.7.0-py3.8.egg-info/PKG-INFO",
+    "Lib/site-packages/brotlipy-0.7.0-py3.8.egg-info/SOURCES.txt",
+    "Lib/site-packages/brotlipy-0.7.0-py3.8.egg-info/dependency_links.txt",
+    "Lib/site-packages/brotlipy-0.7.0-py3.8.egg-info/not-zip-safe",
+    "Lib/site-packages/brotlipy-0.7.0-py3.8.egg-info/requires.txt",
+    "Lib/site-packages/brotlipy-0.7.0-py3.8.egg-info/top_level.txt"
+  ],
+  "fn": "brotlipy-0.7.0-py38he774522_1000.conda",
+  "legacy_bz2_md5": "a0b886a9b18575e852dfa2a93bbe2870",
+  "legacy_bz2_size": 379328,
+  "license": "MIT",
+  "license_family": "MIT",
+  "link": {
+    "source": "C:\\Users\\User\\anaconda3\\pkgs\\brotlipy-0.7.0-py38he774522_1000",
+    "type": 1
+  },
+  "md5": "3de073148f0b2821d1f0de9d03cfb589",
+  "name": "brotlipy",
+  "package_tarball_full_path": "C:\\Users\\User\\anaconda3\\pkgs\\brotlipy-0.7.0-py38he774522_1000.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "brotlipy==0.7.0=py38he774522_1000",
+  "sha256": "b0dce00b3bf9ffd89428c07ffba32453907ce911893e5f7f290d3e85c0b63d71",
+  "size": 346043,
+  "subdir": "win-64",
+  "timestamp": 1591177870593,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/brotlipy-0.7.0-py38he774522_1000.conda",
+  "version": "0.7.0"
+}
