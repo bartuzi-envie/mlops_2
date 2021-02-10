@@ -1,5 +1,0 @@
-C:\Users\User\anaconda3\envs\testenv
-C:\Users\User\anaconda3\envs\tf_gpu
-C:\Users\User\anaconda3\envs\tf-gpu
-C:\Users\User\anaconda3\envs\pythonProject
-C:\Users\User\anaconda3\envs\pt-tf-gpu
